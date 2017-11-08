@@ -1,7 +1,7 @@
 {
   "name": "react-native-mxtoast",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "该版本支持0.48.0以上RN版本，0.0.1支持0.48.0以下RN版本",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
