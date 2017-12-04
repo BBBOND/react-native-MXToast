@@ -1,5 +1,5 @@
 # react-native-mxtoast
-自定义toast，支持0.48.0以下版本RN
+自定义toast
 
 ## 使用方式
 - 安装组件
